@@ -91,7 +91,7 @@ fareedkhan-dev-all-rag-techniques/
 1. **克隆仓库:**
 
     ```bash
-    git clone https://github.com/FareedKhan-dev/all-rag-techniques.git
+    git clone https://github.com/ByteTora/all-rag-techniques.git
     cd all-rag-techniques
     ```
 
